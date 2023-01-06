@@ -1,0 +1,23 @@
+{
+  "name": "min-steps-to-one",
+  "version": "1.0.0",
+  "description": "logic for minimum steps to one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstafford74/min-steps-to-one.git"
+  },
+  "keywords": [
+    "dynamic",
+    "programming"
+  ],
+  "author": "Jeremiah Stafford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstafford74/min-steps-to-one/issues"
+  },
+  "homepage": "https://github.com/jstafford74/min-steps-to-one#readme"
+}
